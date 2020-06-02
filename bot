@@ -1,0 +1,12 @@
+{
+  "title": "hi",
+  "description": "asdasdasd",
+  "author": {
+    "name": "lexee",
+    "icon_url": "https://cdn.discordapp.com/attachments/716691746779693127/717481749294350356/angel-icon-sticker-1540325108.775049.png"
+  },
+  "color": 53380,
+  "footer": {
+    "text": "adsasdasd"
+  }
+}
